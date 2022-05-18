@@ -1,0 +1,1 @@
+# javacript-photodetails-display
